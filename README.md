@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal projects to improve my coding skills**
 
-- 🌱 I’m currently learning **everything I can about backend development.**
+- 🌱 I’m currently learning **everything I can about backend development**
 
 - 📫 How to reach me **alan.franco.7@gmail.com**
 
