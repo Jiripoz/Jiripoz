@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">Backend developer diving into this endless sea of knowledge</h3>
+<h3 align="center">Backend developer diving in this endless sea</h3>
 
 - 🔭 I’m currently working on **personal projects to improve my coding skills**
 
