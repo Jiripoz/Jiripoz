@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal projects to improve my coding skills**
 
-- 🌱 I’m currently learning **everything I can about backend development**
+- 🌱 I’m currently learning **everything I can about backend development.**
 
 - 📫 How to reach me **alan.franco.7@gmail.com**
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/alan-franco-4415511a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-franco-4415511a8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
