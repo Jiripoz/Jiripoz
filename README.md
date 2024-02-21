@@ -1,4 +1,4 @@
-<h1 align="center">I'm Alan but you can call me Jiripo (:</h1>
+<h1 align="center">I'm Alan, but you can call me Jiripo (:</h1>
 <h3 align="center">Currently working as a full-stack developer</h3>
 
 - 🔭 I’m currently working on **development of microservices**
