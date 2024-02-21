@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">Backend developer diving in this endless sea</h3>
+<h1 align="center">I'm Alan but you can call me Jiripo (:</h1>
+<h3 align="center">Currently working as a full-stack developer</h3>
 
-- 🔭 I’m currently working on **personal projects to improve my coding skills**
+- 🔭 I’m currently working on **development of microservices**
 
-- 🌱 I’m currently learning **everything I can about backend development.**
+- 🌱 I’m currently learning **Go and Flutter**
 
 - 📫 How to reach me **alan.franco.7@gmail.com**
-
-- ⚡ Fun fact **There's at least two types of things in the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
